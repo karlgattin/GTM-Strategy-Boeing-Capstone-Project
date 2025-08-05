@@ -1,6 +1,6 @@
 # Boeing BR&T Japan: Sustainable Aviation Fuels (SAFs) GTM Case Study
 
-This repository presents a comprehensive Product Marketing Go-To-Market (GTM) case study analyzing Boeing's strategic initiative to establish a global research and development center for Sustainable Aviation Fuels (SAFs) in Nagoya, Japan. The case study examines Boeing's approach to entering an emerging sustainable technology market through strategic partnerships, government collaboration, and leveraging established industry relationships.
+This repository presents a comprehensive Product Marketing Go-To-Market (GTM) case study analyzing Boeing's strategic initiative to establish a global research and development center for Sustainable Aviation Fuels (SAFs) in Nagoya, Japan. The case study examines Boeing's approach to entering an emerging sustainable technology market through strategic partnerships, government collaboration, and leveraging established industry relationships. This was the Capstone project for my business school in 2023 in Nagoya, Japan at NUCB Business school.
 
 ## Case Study Overview
 
